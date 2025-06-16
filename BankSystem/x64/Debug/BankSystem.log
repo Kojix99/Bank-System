@@ -1,0 +1,4 @@
+﻿  BankSystem.cpp
+C:\Users\dell\source\repos\BankSystem\BankSystem.cpp(118,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\dell\source\repos\BankSystem\BankSystem.cpp(128,16): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  BankSystem.vcxproj -> C:\Users\dell\source\repos\BankSystem\x64\Debug\BankSystem.exe
